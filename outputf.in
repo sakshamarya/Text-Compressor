@@ -1,0 +1,11 @@
+Codes for characters -> 
+C-> 1 1 
+B-> 0 1 
+D-> 0 0 
+E-> 1 0 0 
+A-> 1 0 1 
+Before compression, the size of the string is 160
+After compression, the size of the string is 97
+Encoded Text is 011111101010100001011001111010110110000001111
+Decoded Text is BCCABBDDAECCBBAEDDCC
+Decoded text is same as the encoded text.
